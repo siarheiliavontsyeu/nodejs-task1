@@ -1,4 +1,4 @@
-# RS School REST service
+# Caesar cipher CLI tool
 
 ## Prerequisites
 
